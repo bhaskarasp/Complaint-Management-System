@@ -1,6 +1,3 @@
-Complaint Management System
-
-```markdown
 # Complaint Management System
 
 A simple complaint management system built using Python, SQLite, and Tkinter. This application allows users to submit complaints and view a list of existing complaints through a graphical user interface.
@@ -63,6 +60,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Inspired by various open-source projects and tutorials on Python and Tkinter.
-```
 
 
