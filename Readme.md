@@ -19,6 +19,9 @@ A simple complaint management system built using Python, SQLite, and Tkinter. Th
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/complaint-management-system.git
+   ```
+
+   ```bash
    cd complaint-management-system
    ```
 
